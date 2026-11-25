@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://cpijx7atl1q5f"]
+
+[node name="Cheep-Cheep" type="CharacterBody2D" unique_id=345819729]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=761563058]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=925020801]
