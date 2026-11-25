@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://smaxwwkwmag"
-path="res://.godot/imported/Backgrounds.png-949ae6a6309c70858c95087ddca34042.ctex"
+uid="uid://yr3s63jentnc"
+path="res://.godot/imported/Aquatic Ennemies.png-0d1d91a738d50b3db3bed4610b0abc19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Image/Backgrounds/Backgrounds.png"
-dest_files=["res://.godot/imported/Backgrounds.png-949ae6a6309c70858c95087ddca34042.ctex"]
+source_file="res://Assets/Image/Enemies/Surface/Aquatic Ennemies.png"
+dest_files=["res://.godot/imported/Aquatic Ennemies.png-0d1d91a738d50b3db3bed4610b0abc19.ctex"]
 
 [params]
 
